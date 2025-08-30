@@ -1,0 +1,192 @@
+name: Kulasekaran
+tagline: Frontend Developer specializing in Angular ecosystem with experience in cross-platform app development
+
+sidebar:
+  contact:
+    email: itzkulasekaran@gmail.com
+    phone: "+91 8883635144"
+    location: "Kalakad, Tirunelveli"
+    website: imkulasekaran.web.app
+    github: kulasekaranK
+    linkedin: imkulasekaran
+  skills:
+    - title: Programming & Framework
+      entry:
+        - name: JavaScript
+          rating: 4
+        - name: TypeScript
+          rating: 4
+        - name: HTML/CSS
+          rating: 5   
+        - name: Angular
+          rating: 4
+        - name: Ionic
+          rating: 5
+        - name: Capacitor
+          rating: 4
+        - name: TailwindCSS
+          rating: 4
+        - name: Bootstrap
+          rating: 4
+
+    - title: Operating Systems
+      entry:
+        - name: Linux
+          rating: 5
+        - name: Windows
+          rating: 3
+    - title: Tools & Platforms
+      entry:
+        - name: Git
+          rating: 4
+        - name: Firebase Console
+          rating: 4
+        - name: Visual Studio Code
+          rating: 4
+
+    - title: Languages
+      entry:
+        - name: Tamil
+          value: Native
+        - name: English
+          # value: C1 (IELTS Band 8.0)
+  opensource:
+    title: "Open Source Contributions:"
+    contributions:
+      - name: tunzo-player
+        link: https://www.npmjs.com/package/tunzo-player
+        description: "Reusable audio player package built with Angular. Supports playback, liked songs, queue, shuffle,and localStorage persistence."
+  hobbis:
+    title: ""
+    contributions:
+      - name: "Building personal side projects to explore new tech and improve skills"
+
+      - name: "Following latest trends in web and mobile development"
+
+      - name: "Listening to music in my free time"
+      
+  misc: []
+
+sections:
+  education:
+    - name: "Bachelor’s Degree in Computer Applications"
+      location: "The MDT Hindu College, Tirunelveli"
+      date: "2021 - 2024"
+      description: |-
+        - Gained strong foundation in programming, data structures, algorithms, and database systems.
+        - Built web and mobile applications using Angular, Firebase, PHP, and MySQL.
+        - Completed academic projects focused on software development and modern web technologies.
+       
+    # - name: "Master's in Cybersecurity"
+    #   location: "KTH Royal Institute of Technology, Sweden"
+    #   date: "2023 - 2025 _(expected)_"
+    #   description: ""
+  jobs:
+    - name: |-
+        _Associate Software Engineer_
+      location: "Adaptive Development Pvt Ltd, Tirunelveli"
+      date: "January 2025 – Present"
+      description: |-
+        - Developed responsive web and hybrid mobile applications using Angular standalone components and Ionic framework.
+        - Integrated Firebase services including Authentication, Firestore, Cloud Functions, and real-time data synchronization.
+        - Utilized RxJS and Angular Signals for efficient state management and reactive data flow.
+        - Collaborated with UI/UX teams to deliver accessible, mobile-first interfaces with modern design principles.
+        - Optimized performance using zoneless Angular architecture, lazy loading, and route guards.
+        - Contributed to code reviews, feature planning, and CI/CD pipeline improvements in an agile team environment.
+
+    - name: |-
+        _Associate Software Engineer_
+      location: "Adaptive Media, Tirunelveli"
+      date: "October 2024 - December 2024"
+      description: |-
+         - Developed and maintained reusable Angular components, services, and standalone modules.
+         - Optimized performance and ensured mobile-first responsive design for both web and hybrid platforms.
+         - Collaborated in an agile environment, contributing to sprint planning, peer code reviews, and feature testing.
+         - Managed version control and team workflows using Git, GitHub, and structured branching strategies.
+         - Resolved UI/UX inconsistencies and participated in refactoring legacy code for better maintainability.
+    - name: |-
+        _Trainee_
+      location: "Adaptive Media, Tirunelveli"
+      date: "July 2024 - september 2024"
+      description: |-
+        - Completed structured training in Angular, TypeScript, Firebase, and TailwindCSS.
+        - Developed internal utilities and shared UI components based on company style guides.
+        - Gained hands-on exposure to Git workflows, agile collaboration, and frontend best practices.
+        - Assisted in debugging and improving existing components as part of the development team.
+  projects:
+    - name: Pet Parent
+      date: "2024 - Present"
+      # link: https://resumos.leic.pt
+      techstack:
+        icon: "fa-brands fa-angular"
+        name: "Angular; Ionic"
+      description: >-
+
+        Company Project - A pet care and parenting app developed to track meals, nutrition, and wellness routines.
+
+        - Built using Angular and Ionic for cross-platform support.
+
+        - Enabled users to manage pet profiles, track vaccinations, and set health reminders.
+
+        - Integrated Firebase for authentication, Firestore database, hosting, and FCM notifications.
+
+        - Improved app performance using lazy loading and route guards.
+
+    - name: Max Music Player
+      date: "2025 - Present"
+      link: https://max-tube-official.web.app
+      techstack:
+        icon: "fa-brands fa-angular"
+        name: "Angular; Ionic; API"
+      description: >-
+        Personal Project - Web-based Music Streaming App.
+
+        - A modern music player web app featuring seamless playback, personalized queues, and interactive user features.
+
+        - Built with Angular and Firebase for authentication, data storage, and hosting.
+
+        - Implemented core features like search, play/pause, queue management, suffix navigation, and liked songs.
+
+        - Built a seamless and engaging UI experience with Ionic and Angular animations, optimized for responsiveness.
+
+       
+    - name: Zesty Eats
+      date: "2024 - 2025"
+      link: https://zesty-eats.web.app
+      techstack:
+        icon: "fa-brands fa-angular"
+        name: "Angular; TypeScript"
+      description: >-
+        Personal Project - Food Delivery Web App with Admin Panel
+
+        - Developed using Angular for frontend and Firebase for backend services.
+
+        - Implemented user authentication, order tracking, and admin dashboard features.
+
+        - Integrated Razorpay payment gateway for secure online transactions.
+
+        - Created responsive UI components with Bootstrap, delivering optimized user experiences across multiple device types.
+
+   
+  # extracurriculars:
+  #   - name: Member of Security Team @ Técnico (STT)
+  #     link: https://sectt.github.io/
+  #     icon: "fa-solid fa-user-secret"
+  #   - name: Member of RoyalRoppers at KTH
+  #     link: https://royalroppers.team/
+  #     icon: "fa-solid fa-user-secret"
+  #   - name: Informatics I and Web I Instructor at AfterSchool by TreeTree2
+  #     link: https://treetree2.school/
+  #     icon: "fa-solid fa-chalkboard-user"
+  #   - name: Portuguese Olympiad in Informatics 2020
+  #     icon: "fa-solid fa-display"
+  #   - name: Portuguese Olympiad in Physics 2019
+  #     icon: "fa-solid fa-atom"
+  #   - name: Federated Athlete at Portuguese Athletics Federation (2018 - Present)
+  #     icon: "fa-solid fa-person-running"
+  #   - name: Member of Hackerschool student group at IST
+  #     link: https://hackerschool.io
+  #     icon: "fa-solid fa-microchip"
+  #   - name: Advent of Code Participant
+  #     link: https://github.com/diogotcorreia/advent-of-code
+  #     icon: "fa-solid fa-sleigh"

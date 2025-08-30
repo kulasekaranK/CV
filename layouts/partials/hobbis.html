@@ -1,0 +1,21 @@
+<div class="cv-hobbis">
+  <h2 class="cv-sidebar-heading">
+    {{ i18n "section-header.hobbis" }}
+  </h2>
+  <p>{{ .title }}</p>
+  <ul>
+    {{ range .contributions }}
+      <li class="cv-hobbis-contribution">
+        {{ if .link }}
+          <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">
+            {{ .name }}
+            <i class="fa-solid fa-link"></i>
+          </a>
+          ({{ .description }})
+        {{ else }}
+          {{ .name }}
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
+</div>
