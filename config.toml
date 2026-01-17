@@ -1,4 +1,4 @@
-baseURL = 'https://cv.diogotc.com'
+baseURL = 'https://kulasekaranK.github.io/CV/'
 languageCode = 'en-us'
 title = 'CV | Kulasekaran'
 disableKinds = ["taxonomy", "term"]
