@@ -16,6 +16,8 @@ sidebar:
           rating: 4
         - name: TypeScript
           rating: 4
+        - name: NodeJS
+          rating: 4
         - name: HTML/CSS
           rating: 5   
         - name: Angular
@@ -37,7 +39,7 @@ sidebar:
           rating: 3
     - title: Tools & Platforms
       entry:
-        - name: Git
+        - name: GitHub
           rating: 4
         - name: Firebase Console
           rating: 4
@@ -132,16 +134,16 @@ sections:
 
         - Improved app performance using lazy loading and route guards.
 
-    - name: Max Music Player
+    - name: Tunzo
       date: "2025 - Present"
       link: https://max-tube-official.web.app
       techstack:
         icon: "fa-brands fa-angular"
         name: "Angular; Ionic; API"
       description: >-
-        Personal Project - Web-based Music Streaming App.
+        Personal Project - Music Streaming App.
 
-        - A modern music player web app featuring seamless playback, personalized queues, and interactive user features.
+        - A modern music player android app featuring seamless playback, personalized queues, and interactive user features.
 
         - Built with Angular and Firebase for authentication, data storage, and hosting.
 
